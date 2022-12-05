@@ -1,6 +1,6 @@
 ### Hola! Soy Diana 👋
 
-Full Stack Developer especializada en JavaScript, HTML, CSS, Node, React, Redux, SQL con conocimientos en Angular, Typescript y Ngrx; experta universitaria en lean management y metodologías agiles, con más de 10 años de experiencia liderando equipos en proyectos de obras industriales.
+Full Stack Developer; experta universitaria en lean management y metodologías agiles, con más de 10 años de experiencia liderando equipos en proyectos de obras industriales.
 Mi formación académica como ingeniera de procesos, desarrolló mi pensamiento analítico, sistémico y orientado a los resultados, proveyendo en mi carrera laboral valor a los equipos de trabajo, a los resultados de la compañía, y a los clientes. Me proyecto aplicando mi know-how liderando proyectos dentro del ámbito tech.
 
 [![Linkedin Badge](https://img.shields.io/badge/-dianaterragno-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-terragno/)](https://www.linkedin.com/in/diana-terragno/)

@@ -5,6 +5,7 @@ Mi formación académica como ingeniera de procesos, desarrolló mi pensamiento 
 
 [![Linkedin Badge](https://img.shields.io/badge/-dianaterragno-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diana-terragno/)](https://www.linkedin.com/in/diana-terragno/)
 [![Gmail Badge](https://img.shields.io/badge/-dianaterragno-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dianaterragno@gmail.com)](mailto:dianaterragno@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/diaterra.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Diaterra?tab=followers)
 
 ### Tech & Tools Preference
 

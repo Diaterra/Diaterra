@@ -1,5 +1,7 @@
 ### Hola! Soy Diana 👋
 
+<img src = "https://res.cloudinary.com/dbgpp8nla/image/upload/v1670289508/m2ixnbbrl5gsemw3ju0c.png">
+
 Full Stack Developer; experta universitaria en lean management y metodologías agiles, con más de 10 años de experiencia liderando equipos en proyectos de obras industriales.
 Mi formación académica como ingeniera de procesos, desarrolló mi pensamiento analítico, sistémico y orientado a los resultados, proveyendo en mi carrera laboral valor a los equipos de trabajo, a los resultados de la compañía, y a los clientes. Me proyecto aplicando mi know-how liderando proyectos dentro del ámbito tech.
 

@@ -24,7 +24,7 @@ Contactame en -->
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
   [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 <!--
